@@ -1,0 +1,3 @@
+application:
+ client:
+  name: service-one-test 
