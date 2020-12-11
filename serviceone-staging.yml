@@ -1,0 +1,5 @@
+application:
+ client:
+  name: service-one-test 
+  
+app-name: staging-app  
